@@ -54,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the developers of `requests` and `BeautifulSoup` for their helpful libraries.
 - This project is for educational purposes and scraping websites should be done respectfully and in accordance with their terms of service.
-
